@@ -1,6 +1,6 @@
 # Linux DevOps
 
-##### This repository contains my daily practice and scripts while learning
+This repository contains my daily practice and scripts while learning
 Linux and Bash for DevOps.
 
 
