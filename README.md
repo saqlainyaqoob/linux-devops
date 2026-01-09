@@ -1,4 +1,9 @@
-# Linux-devops
-#### This repository contains my daily practice and scripts while learning Linux and Bash for DevOps.
+# Linux DevOps
 
-I maintain a single DevOps repository organized by weeks to show progressive learning, automation scripts, and production-style projects
+This repository contains my daily practice and scripts while learning
+Linux and Bash for DevOps.
+
+## Day 1
+- Linux filesystem exploration
+- Basic Bash scripting
+- Created first executable script
