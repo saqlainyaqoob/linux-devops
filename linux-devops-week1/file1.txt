@@ -1,0 +1,40 @@
+## What a useful permissions-check.sh script would do is below mentioned:
+
+1.Check if a file argument is provided
+
+2.Check if the file exists
+
+3.Show permissions 
+
+4.Show numeric (octal) permissions
+
+5.Check read/write/execute access and/or permissions
+
+6.Tell whether it’s a file or directory
+
+Why this script permissions-check.sh is useful:
+✔ Teaches real permission checks
+✔ Works for files & directories
+✔ Used in interviews & sysadmin tasks
+
+
+
+## Linux permission mapping used for chmod
+| Value | Permission    | Symbol |
+| ----: | ------------- | ------ |
+|     4 | Read          | r      |
+|     2 | Write         | w      |
+|     1 | Execute       | x      |
+|     0 | No permission | -      |
+
+
+
+## Full chmod examples
+| Command               | Meaning               |
+| --------------------- | --------------------- |
+| `chmod 644 file1.txt` | Common for text files |
+| `chmod 664 file1.txt` | Shared group write    |
+| `chmod 755 script.sh` | Executable scripts    |
+| `chmod u+x script.sh` | Add execute to owner  |
+| `chmod -x file1.txt`  | Remove execute        |
+

@@ -7,3 +7,8 @@ Linux and Bash for DevOps.
 - Linux filesystem exploration
 - Basic Bash scripting
 - Created first executable script
+
+## Day 2
+- File and directory permissions
+- Users and groups
+- Bash script to check permissions
