@@ -12,8 +12,8 @@ chmod, chown, ls -l, useradd, groupadd, usermod
 - Checks existence and prints permissions
 
 ## PRACTICED
-* ✔ chmod → permission control
-* ✔ chown → ownership control
-* ✔ useradd, groupadd, usermod → access management
-* ✔ Bash arguments ($1)
-* ✔ File existence checks
+*  chmod → permission control ✔ 
+*  chown → ownership control ✔
+*  useradd, groupadd, usermod → access management ✔ 
+*  Bash arguments ($1) ✔ 
+*  File existence checks ✔ 
