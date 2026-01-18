@@ -12,3 +12,10 @@ Linux and Bash for DevOps.
 - File and directory permissions
 - Users and groups
 - Bash script to check permissions
+
+
+## Day 3
+- Processes vs services
+- systemd service management
+- Log inspection using journalctl
+- Bash script to check running processes
