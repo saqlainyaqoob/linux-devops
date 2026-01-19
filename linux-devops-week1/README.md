@@ -19,3 +19,10 @@ Linux and Bash for DevOps.
 - systemd service management
 - Log inspection using journalctl
 - Bash script to check running processes
+
+
+## Day 4
+- Networking basics (IP, DNS, ports)
+- Connectivity testing using ping and curl
+- Port inspection with ss
+- Network automation script
