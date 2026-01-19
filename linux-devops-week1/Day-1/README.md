@@ -18,4 +18,6 @@ pwd, ls, cd, tree, chmod
 
 ## Below is the terminal output captured while running script:
 
-![Terminal](linux-devops/linux-devops-week1/terminal-screenshots/terminal.png)
+![Script Output](../terminal-screenshots/terminal.png)
+
+<img src="../terminal-screenshots/health-monitor.png" width="800">
