@@ -20,4 +20,4 @@ pwd, ls, cd, tree, chmod
 
 ![Script Output](../terminal-screenshots/terminal.png)
 
-<img src="../terminal-screenshots/health-monitor.png" width="800">
+<img src="../terminal-screenshots/terminal.png" width="800">
