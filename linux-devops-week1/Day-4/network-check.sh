@@ -21,3 +21,6 @@ if [ "$STATUS" -eq 200 ]; then
 else
   echo "Website returned status $STATUS"
 fi
+
+
+

@@ -26,3 +26,9 @@ Linux and Bash for DevOps.
 - Connectivity testing using ping and curl
 - Port inspection with ss
 - Network automation script
+
+
+## Day 5
+- Disk and memory usage monitoring
+- Cron jobs for automation
+- Resource monitoring bash script
