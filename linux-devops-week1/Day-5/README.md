@@ -13,8 +13,8 @@ df, du, free, top, crontab
 - Alerts when usage exceeds threshold
 
 ## Below is the terminal output captured while running the  script
-![terminal](/home/codex/Desktop/Linux-devOps/linux-devops/linux-devops-week1/terminal-screenshots/terminal3.png)
+![terminal](../terminal-screenshots/terminal3.png)
 
-![terminal](/home/codex/Desktop/Linux-devOps/linux-devops/linux-devops-week1/terminal-screenshots/terminal2.png)
+![terminal](../terminal-screenshots/terminal2.png)
 
 
