@@ -12,3 +12,9 @@ Built a monitoring script to check service availability and port status.
 ## DevOps Concepts
 Monitoring, automation, logging, service reliability
 
+## Below is the terminal output of running script
+
+![terminal](../terminal-screenshots/image6.png)
+
+
+
