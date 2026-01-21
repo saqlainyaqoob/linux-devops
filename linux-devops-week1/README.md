@@ -32,3 +32,8 @@ Linux and Bash for DevOps.
 - Disk and memory usage monitoring
 - Cron jobs for automation
 - Resource monitoring bash script
+
+## Day 6
+- Mini project: Service & Port Watchdog
+- Monitored critical services and ports
+- Logged failures for proactive troubleshooting
